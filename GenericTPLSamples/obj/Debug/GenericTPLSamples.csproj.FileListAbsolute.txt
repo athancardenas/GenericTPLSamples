@@ -1,0 +1,6 @@
+c:\users\nstemp2\documents\visual studio 2015\Projects\GenericTPLSamples\GenericTPLSamples\bin\Debug\GenericTPLSamples.exe.config
+c:\users\nstemp2\documents\visual studio 2015\Projects\GenericTPLSamples\GenericTPLSamples\bin\Debug\GenericTPLSamples.exe
+c:\users\nstemp2\documents\visual studio 2015\Projects\GenericTPLSamples\GenericTPLSamples\bin\Debug\GenericTPLSamples.pdb
+c:\users\nstemp2\documents\visual studio 2015\Projects\GenericTPLSamples\GenericTPLSamples\obj\Debug\GenericTPLSamples.csprojResolveAssemblyReference.cache
+c:\users\nstemp2\documents\visual studio 2015\Projects\GenericTPLSamples\GenericTPLSamples\obj\Debug\GenericTPLSamples.exe
+c:\users\nstemp2\documents\visual studio 2015\Projects\GenericTPLSamples\GenericTPLSamples\obj\Debug\GenericTPLSamples.pdb
